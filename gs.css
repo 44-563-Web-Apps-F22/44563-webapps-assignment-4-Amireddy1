@@ -1,7 +1,7 @@
-.display {
+.direction {
     background-color: blueviolet;
 }
-.display:hover{
+.direction:hover {
     background-color: darkgreen;
     color: aqua;
 }
