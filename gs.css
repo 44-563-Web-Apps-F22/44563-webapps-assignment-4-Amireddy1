@@ -38,6 +38,18 @@
     color: chartreuse;
     padding: 3px;
 }
+li{
+    display: inline-block;
+    background-color: red;
+    border-color: coral;
+    width: fit-content;
+}
+li:hover{
+    background-color: teal;
+}
+body{
+    background-image:url(image.jpg)
+}
 
 
 
