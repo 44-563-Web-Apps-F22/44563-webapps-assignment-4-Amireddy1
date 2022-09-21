@@ -1,0 +1,32 @@
+.display {
+    background-color: blueviolet;
+}
+.display:hover{
+    background-color: darkgreen;
+    color: aqua;
+}
+.speech{
+    color: crimson;
+    font-size: smaller;
+    font-style: italic;
+}
+.LUD{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+.JUL{
+    font-variant: inherit;
+    font-style: oblique;
+    font-weight: lighter;
+    color: darkgoldenrod;
+}
+
+.character{
+    border: firebrick;
+    text-align: center;
+    margin-top: initial;
+    margin-bottom: initial;
+}
+
