@@ -15,12 +15,20 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(14, 14, 140);
 }
+.lud:hover {
+    border: 3px solid goldenrod;
+    box-shadow: 10px 10px 5px rgb(79, 46, 110);
 
-.jul{
+}
+.jul {
     font-variant: inherit;
     font-style: oblique;
     font-weight: lighter;
     color: darkgoldenrod;
+}
+.jul:hover {
+    border: 3px solid violet;
+    box-shadow: 10px 10px 5px rgb(55, 136, 139);
 }
 .tablechar {
     border: 3px solid rgb(133, 33, 33);
