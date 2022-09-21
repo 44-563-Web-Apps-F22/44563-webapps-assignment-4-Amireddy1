@@ -13,7 +13,7 @@
 .lud{
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blue;
+    color: rgb(14, 14, 140);
 }
 
 .jul{
@@ -22,5 +22,14 @@
     font-weight: lighter;
     color: darkgoldenrod;
 }
+.tablechar{
+    border: firebrick;
+    text-align: center;
+    margin-top: initial;
+    margin-bottom: 10px;
+    color: chartreuse;
+    padding: 3px;
+}
+
 
 
