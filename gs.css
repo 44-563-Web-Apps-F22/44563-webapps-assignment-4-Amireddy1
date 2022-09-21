@@ -10,13 +10,13 @@
     font-size: smaller;
     font-style: italic;
 }
-.LUD{
+.lud{
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: blue;
 }
 
-.JUL{
+.jul{
     font-variant: inherit;
     font-style: oblique;
     font-weight: lighter;
