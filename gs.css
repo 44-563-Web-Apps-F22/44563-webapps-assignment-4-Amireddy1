@@ -14,30 +14,54 @@
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(14, 14, 140);
+    text-shadow: 1px 1px 2px red;
 }
 .lud:hover {
     border: 3px solid goldenrod;
     box-shadow: 10px 10px 5px rgb(79, 46, 110);
+    text-shadow: 1px 1px 2px red;
 
 }
 .jul {
     font-variant: inherit;
     font-style: oblique;
     font-weight: lighter;
-    color: darkgoldenrod;
+    color: blueviolet;
+    text-shadow: 1px 1px 2px orangered;
 }
 .jul:hover {
     border: 3px solid violet;
     box-shadow: 10px 10px 5px rgb(55, 136, 139);
+    text-shadow: 1px 1px 2px orangered;
 }
+
+
 .tablechar {
-    border: 3px solid rgb(133, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  .tablechar td, .tablechar th {
+    border: 5px solid #ddd;
+    padding: 8px;
     text-align: center;
-    margin-top: initial;
-    margin-bottom: 10px;
-    color: chartreuse;
-    padding: 3px;
-}
+    background-color: darkgoldenrod;
+  }
+  
+  .tablechar tr:nth-child{background-color: #f2f2f2;}
+  
+  .tablechar tr:hover {background-color: #ddd;}
+  
+  .tablechar th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
 li{
     display: inline-block;
     background-color: red;
